@@ -4,5 +4,9 @@ Warsztaty moduł 2 JavaScript
 _____________
 commit  #1
 
-dodanie slider'a
+dodanie slidera
+
+commit #2
+
+dodanie galerii
 
