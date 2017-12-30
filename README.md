@@ -18,3 +18,7 @@ commit #4
 
 dodanie menu
 
+commit #5 
+
+dodanie tooltips
+
