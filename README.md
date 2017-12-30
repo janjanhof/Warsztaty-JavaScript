@@ -10,3 +10,7 @@ commit #2
 
 dodanie galerii
 
+commit #3
+
+dodanie galerii z filtrem
+
