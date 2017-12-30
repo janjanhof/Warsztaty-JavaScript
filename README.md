@@ -14,3 +14,7 @@ commit #3
 
 dodanie galerii z filtrem
 
+commit #4
+
+dodanie menu
+
